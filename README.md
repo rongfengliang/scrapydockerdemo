@@ -1,5 +1,5 @@
 # scrapy basic demo 
-## how o run 
+## how to run 
 ```bash
 scrapy crawl appdemo -o appdemo.csv
 ```
